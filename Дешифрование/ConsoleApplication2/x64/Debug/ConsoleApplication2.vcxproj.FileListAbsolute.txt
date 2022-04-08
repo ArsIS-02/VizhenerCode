@@ -1,0 +1,2 @@
+G:\C++\Курсовая\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+G:\УрФУ\2 курс-РИЗ-200028у\Прикладное программирование(Чагаева О.Л.)\Курсовая работа\Дешифрование\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
